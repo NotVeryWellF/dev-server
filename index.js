@@ -24,7 +24,7 @@ const startServer = ({ port }) => {
     });
 
     app.listen(port, () => {
-		console.log(`server started at: localhost:${port}${appPath}`);
+		console.log(`server started at: http://localhost:${port}${appPath}`);
 	});
 }
 
