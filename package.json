@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/NotVeryWellF/dev-server#readme",
   "dependencies": {
-    "@notverywellc/templates": "0.0.2",
+    "@notverywellc/templates": "0.0.3",
     "express": "^4.17.1",
     "@types/express": "^4.17.13",
     "ts-loader": "^9.2.6",
